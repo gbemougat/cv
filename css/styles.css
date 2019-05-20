@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+/***hr styling***/
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-with:5px;
+  width:5%;
+}
+body{
+  background-color:#EAF6F6;
+}
+
+/**text color***/
+h1{
+  color:#66BFBF;
+}
+
+h3{
+  color:#f34573;
+}
+
+/***images styling***/
+img {
+  border-radius: 50%;
+  height:70%;
+}
